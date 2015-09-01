@@ -3,11 +3,11 @@ require './lib/hashtaggable/version'
 Gem::Specification.new do |s|
   s.name = 'hashtaggable'
   s.version = Hashtaggable::VERSION
-  s.authors = ["Juan Antonio Martín Lucas"]
+  s.authors = ['Juan A. Martín Lucas']
   s.description = 'Replace keywords with hashtags and mentions'
   s.summary = "hashtaggable-#{s.version}"
-  s.email = 'hashtaggable@noijd.com'
-  s.homepage = 'http://github.com/noijd/hashtaggable'
+  s.email = 'hashtaggable@jaml.site'
+  s.homepage = 'http://github.com/j-a-m-l/hashtaggable'
 
   # TODO
   # s.add_runtime_dependency 'cucumber', '>= 1.1.1'
